@@ -1,0 +1,7 @@
+# about ignoring files.
+
+# dependencies
+/node_modules
+
+# electron folder - test app
+/out
